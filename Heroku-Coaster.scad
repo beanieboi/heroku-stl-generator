@@ -1,8 +1,10 @@
-// Heroku Logo
+// Heroku Coaster
 
 // Adjust scale factor to resize
-width=100;
-logo_height=4;
+// unit == millimeter
+// 80mm ~ 3.1inch0
+width=80;
+logo_height=3;
 backplate_height=2;
 
 logo();
