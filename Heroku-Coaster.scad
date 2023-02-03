@@ -5,8 +5,8 @@
 // 80mm ~ 3.1inch0
 
 width=80;
-logo_height=3;
-backplate_height=2;
+logo_height=2;
+backplate_height=1;
 
 logo();
 backplate();
